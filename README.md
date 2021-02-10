@@ -9,9 +9,10 @@ In this project we are going to build a Neural Network Model that can able to cl
 
 **Features**
 
-Our Dataset is from : http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
+Our Dataset is from :  http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
 
-Which has, <i>
+
+Which has, 
 
 - Single-image, multi-class classification problem
 
@@ -19,13 +20,13 @@ Which has, <i>
 
 - More than 50,000 images in total
 
-- Large, lifelike database </i>
+- Large, lifelike database 
 
 We would like to build a Convolutional Neural Network (CNN) Model to classify the images into respective categories. Moreover, CNN is best for image classification purposes.
 
 **Technologies, Libraries, Frameworks**
 
-<i>
+
 - Numpy
   
 - Pandas
@@ -44,3 +45,7 @@ We would like to build a Convolutional Neural Network (CNN) Model to classify th
 **Future Work**
 
 To convert the TensorFlow model we built into TensorFlow Lite model and run in Mobile devices such as Android. But this is our long-term goal, as TensorFlow Lite is still in developing phase where one can better use already developed models by google, rather than converting our own TensorFlow model.
+
+
+**A complete documentation of the project can be found in this wiki link: https://github.com/avinashganguri/Traffic/wiki/Increment-2**
+
