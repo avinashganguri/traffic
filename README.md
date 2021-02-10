@@ -47,6 +47,6 @@ We would like to build a Convolutional Neural Network (CNN) Model to classify th
 To convert the TensorFlow model we built into TensorFlow Lite model and run in Mobile devices such as Android. But this is our long-term goal, as TensorFlow Lite is still in developing phase where one can better use already developed models by google, rather than converting our own TensorFlow model.
 
 
-**A complete documentation of the project can be found in this wiki link: https://github.com/avinashganguri/Traffic/wiki/Increment-2**
+**A complete documentation of the project can be found in this wiki link: <a href="https://github.com/avinashganguri/Traffic/wiki/Increment-2">Documentation</a>**
 
 
