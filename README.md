@@ -49,4 +49,3 @@ To convert the TensorFlow model we built into TensorFlow Lite model and run in M
 
 **A complete documentation of the project can be found in this wiki link: <a href="https://github.com/avinashganguri/Traffic/wiki/Increment-2" target="_blank">https://github.com/avinashganguri/Traffic/wiki/Increment-2</a>**
 
-
