@@ -19,7 +19,7 @@ Which has, <i>
 
 - More than 50,000 images in total
 
--Large, lifelike database </i>
+- Large, lifelike database </i>
 
 We would like to build a Convolutional Neural Network (CNN) Model to classify the images into respective categories. Moreover, CNN is best for image classification purposes.
 
