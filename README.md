@@ -13,11 +13,11 @@ Our Dataset is from : http://benchmark.ini.rub.de/?section=gtsrb&subsection=data
 
 Which has, <i>
 
--Single-image, multi-class classification problem
+- Single-image, multi-class classification problem
 
--More than 40 classes
+- More than 40 classes
 
--More than 50,000 images in total
+- More than 50,000 images in total
 
 -Large, lifelike database </i>
 
@@ -26,19 +26,19 @@ We would like to build a Convolutional Neural Network (CNN) Model to classify th
 **Technologies, Libraries, Frameworks**
 
 <i>
--Numpy
+- Numpy
   
--Pandas
+- Pandas
 
--Matplotlib
+- Matplotlib
 
--Pillow
+- Pillow
 
--Tensorflow
+- Tensorflow
 
--Keras
+- Keras
 
--Tkinter Toolkit <i>
+- Tkinter Toolkit <i>
 
 
 **Future Work**
