@@ -38,7 +38,7 @@ We would like to build a Convolutional Neural Network (CNN) Model to classify th
 
 - Keras
 
-- Tkinter Toolkit <i>
+- Tkinter Toolkit </i>
 
 
 **Future Work**
