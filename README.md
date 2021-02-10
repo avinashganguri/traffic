@@ -9,7 +9,7 @@ In this project we are going to build a Neural Network Model that can able to cl
 
 **Features**
 
-Our Dataset is from : <a href="http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset">http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset</a> 
+Our Dataset is from : <a href="http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset" target="_blank">http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset</a> 
 
 
 Which has, 
@@ -47,6 +47,6 @@ We would like to build a Convolutional Neural Network (CNN) Model to classify th
 To convert the TensorFlow model we built into TensorFlow Lite model and run in Mobile devices such as Android. But this is our long-term goal, as TensorFlow Lite is still in developing phase where one can better use already developed models by google, rather than converting our own TensorFlow model.
 
 
-**A complete documentation of the project can be found in this wiki link: <a href="https://github.com/avinashganguri/Traffic/wiki/Increment-2">https://github.com/avinashganguri/Traffic/wiki/Increment-2</a>**
+**A complete documentation of the project can be found in this wiki link: <a href="https://github.com/avinashganguri/Traffic/wiki/Increment-2" target="_blank">https://github.com/avinashganguri/Traffic/wiki/Increment-2</a>**
 
 
