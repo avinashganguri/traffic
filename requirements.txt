@@ -45,7 +45,7 @@ pyasn1-modules==0.2.8
 pyparsing==2.4.6
 pyrsistent==0.15.7
 pytz==2019.3
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==18.1.1
 qtconsole==4.7.2
 requests==2.23.0
